@@ -1,0 +1,13 @@
+.App {
+  font-family: "Birthstone", cursive;
+  text-align: center;
+}
+
+body {
+  background-color: #d50eeb;
+  color: off-white;
+  display: block;
+  justify-content: left;
+  align-items: center;
+  padding: 2rem 0;
+}
