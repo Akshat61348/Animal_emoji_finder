@@ -86,7 +86,7 @@ export default function App() {
   }
   return (
     <div className="App" style={appStyle}>
-      <h1>!!Know Your Animals!!</h1>
+      <h1>!!Animal Emoji Finder!!</h1>
       <br />
       <input
         type="text"
